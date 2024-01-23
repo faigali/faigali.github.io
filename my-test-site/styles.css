@@ -1,0 +1,39 @@
+h1 {
+  color: red;
+  background-color: rgb(0, 255, 213);
+  border-style: double;
+}
+
+
+
+h1 + p {
+  font-size: 200%;
+  }
+
+
+li {
+  color: purple;
+  list-style-type: square;
+}
+
+p em {
+  color: red;
+}
+
+a:link {
+  color: green;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.special {
+  color: yellow;
+  background-color: gray;
+  padding: 5px;
+}
